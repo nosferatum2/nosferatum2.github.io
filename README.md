@@ -1,2 +1,4 @@
 # nosferatum2.github.io
-Web design for everyone.
+
+
+<b>sample</b> - In the folder will be stayed all my practice with front-end.
